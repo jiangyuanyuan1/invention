@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T02:49:35.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="FvMwDBX_y9xUfxQgP-2W" version="15.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T02:55:51.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="rih8ym0uYFXqj78o1Q_h" version="15.0.4" type="github">
   <diagram id="jC0eA6sUKzP2ByOyJPaz" name="Page-1">
     <mxGraphModel dx="782" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
             <mxPoint x="400" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9YF61LHy54mFehH1OXNf-3" value="主流BI 工具&lt;br&gt;smartbi/BDP" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="9YF61LHy54mFehH1OXNf-3" value="主流BI 工具&lt;br&gt;smartbi/BDP等" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="324" y="240" width="96" height="96" as="geometry" />
         </mxCell>
         <mxCell id="9YF61LHy54mFehH1OXNf-4" value="自行研发通用的BI工具" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
@@ -55,7 +55,7 @@
             <mxPoint x="200" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9YF61LHy54mFehH1OXNf-19" value="通用的报表展示界面" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+        <mxCell id="9YF61LHy54mFehH1OXNf-19" value="自研通用的报表展示界面/清单下载界面" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
           <mxGeometry x="331" y="505" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9YF61LHy54mFehH1OXNf-20" value="方案三" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
@@ -67,7 +67,7 @@
             <mxPoint x="340" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9YF61LHy54mFehH1OXNf-22" value="1、使用Java实体类输出结果表&lt;br&gt;2、使用mybabits的xml文件，写sql输出结果表" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="9YF61LHy54mFehH1OXNf-22" value="1、使用Java实体类操作，输出结果表&lt;br&gt;2、使用mybabits的xml文件，写sql输出结果表" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="585" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
