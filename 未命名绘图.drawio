@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T06:24:47.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.24" etag="GF6R6tf5CkR4pRdXP5kx" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-30T09:54:25.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.24" etag="Ix3vr4Mq4RVo-kq0_Te1" version="20.5.1" type="github">
   <diagram id="Q1Jix77r4ZnzV5kOpdrD" name="第 1 页">
-    <mxGraphModel dx="1375" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1618" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
           <mxGeometry x="480" y="530" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jdafwGyb-ZA4JQ6VH0_T-18" value="选择预测结果跟基模型预测结果最接近的两个模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="415" y="485" width="290" height="30" as="geometry" />
+          <mxGeometry x="470" y="485" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jdafwGyb-ZA4JQ6VH0_T-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jdafwGyb-ZA4JQ6VH0_T-19" target="jdafwGyb-ZA4JQ6VH0_T-30">
           <mxGeometry relative="1" as="geometry" />
@@ -68,7 +68,12 @@
           <mxGeometry x="320" y="705" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jdafwGyb-ZA4JQ6VH0_T-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jdafwGyb-ZA4JQ6VH0_T-21" target="jdafwGyb-ZA4JQ6VH0_T-23">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="730" />
+              <mxPoint x="545" y="730" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="jdafwGyb-ZA4JQ6VH0_T-21" value="2个黑灰白预测结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="660" width="120" height="50" as="geometry" />
@@ -77,7 +82,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jdafwGyb-ZA4JQ6VH0_T-23" value="纠错模型灰黑白预测结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="790" width="120" height="50" as="geometry" />
+          <mxGeometry x="485" y="800" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jdafwGyb-ZA4JQ6VH0_T-25" value="模型预测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="515" y="595" width="70" height="30" as="geometry" />
@@ -86,15 +91,15 @@
           <mxGeometry x="355" y="135" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jdafwGyb-ZA4JQ6VH0_T-27" value="抽取两个结果中预测一直的数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="455" y="725" width="190" height="30" as="geometry" />
+          <mxGeometry x="570" y="725" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jdafwGyb-ZA4JQ6VH0_T-29" value="对基模型预测结果进行纠正" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="365" y="695" width="170" height="30" as="geometry" />
+          <mxGeometry x="380" y="760" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jdafwGyb-ZA4JQ6VH0_T-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jdafwGyb-ZA4JQ6VH0_T-30" target="jdafwGyb-ZA4JQ6VH0_T-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jdafwGyb-ZA4JQ6VH0_T-36" value="第一次执行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jdafwGyb-ZA4JQ6VH0_T-35">
+        <mxCell id="jdafwGyb-ZA4JQ6VH0_T-36" value="只生成一次" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jdafwGyb-ZA4JQ6VH0_T-35">
           <mxGeometry x="-0.25" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
