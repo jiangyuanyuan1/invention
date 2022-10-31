@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T13:22:05.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="g86701JWitXqbN0o1bYI" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-31T13:55:14.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="8l30b05eIr_39WPk6DnV" version="20.5.1" type="github">
   <diagram id="ztrk6C41VKz0y3JBxmpR" name="第 1 页">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,35 +35,47 @@
         <mxCell id="v_nW382A8O7cPtC-BspA-7" value="基模型预测" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v_nW382A8O7cPtC-BspA-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v_nW382A8O7cPtC-BspA-9" target="v_nW382A8O7cPtC-BspA-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="v_nW382A8O7cPtC-BspA-9" value="基结果&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="390" width="120" height="40" as="geometry" />
+          <mxGeometry x="250" y="410" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v_nW382A8O7cPtC-BspA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="v_nW382A8O7cPtC-BspA-15" target="v_nW382A8O7cPtC-BspA-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="350" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="440" y="520" />
-              <mxPoint x="350" y="520" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="J7_sKY_6R6kmcWjidaE_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_nW382A8O7cPtC-BspA-15" target="J7_sKY_6R6kmcWjidaE_-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v_nW382A8O7cPtC-BspA-15" value="2个专项纠错模型预测&lt;br&gt;（仅针对黑灰白）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="280" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v_nW382A8O7cPtC-BspA-25" value="抽取两个结果中&lt;br&gt;预测一致的数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="425" y="435" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="v_nW382A8O7cPtC-BspA-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v_nW382A8O7cPtC-BspA-27" target="v_nW382A8O7cPtC-BspA-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v_nW382A8O7cPtC-BspA-27" value="纠正" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="270" y="485" width="80" height="75" as="geometry" />
+          <mxGeometry x="450" y="450" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v_nW382A8O7cPtC-BspA-29" value="最终结果" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="255" y="600" width="110" height="40" as="geometry" />
+          <mxGeometry x="255" y="520" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J7_sKY_6R6kmcWjidaE_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J7_sKY_6R6kmcWjidaE_-3" target="J7_sKY_6R6kmcWjidaE_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J7_sKY_6R6kmcWjidaE_-3" value="输出2个黑灰白预测结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="370" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J7_sKY_6R6kmcWjidaE_-5" value="输出灰黑白预测结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J7_sKY_6R6kmcWjidaE_-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="v_nW382A8O7cPtC-BspA-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="540" as="sourcePoint" />
+            <mxPoint x="470" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="540" />
+              <mxPoint x="390" y="530" />
+              <mxPoint x="390" y="430" />
+              <mxPoint x="380" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J7_sKY_6R6kmcWjidaE_-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="v_nW382A8O7cPtC-BspA-9" target="v_nW382A8O7cPtC-BspA-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
