@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T14:38:02.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="6-dyFBdZXvjyZ6dhO2Bb" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T04:52:36.303Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Ouw6gZBfj4DUzzvDQu2_" version="20.5.1" type="github">
   <diagram id="ztrk6C41VKz0y3JBxmpR" name="第 1 页">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="v_nW382A8O7cPtC-BspA-9" value="输出基结果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="235" y="430" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="J7_sKY_6R6kmcWjidaE_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_nW382A8O7cPtC-BspA-15" target="J7_sKY_6R6kmcWjidaE_-3">
+        <mxCell id="J7_sKY_6R6kmcWjidaE_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v_nW382A8O7cPtC-BspA-15" target="J7_sKY_6R6kmcWjidaE_-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v_nW382A8O7cPtC-BspA-15" value="2个专项纠错模型预测&lt;br&gt;（仅针对黑灰白）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -55,23 +55,26 @@
         <mxCell id="v_nW382A8O7cPtC-BspA-29" value="输出最终结果" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="245" y="520" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="J7_sKY_6R6kmcWjidaE_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J7_sKY_6R6kmcWjidaE_-3" target="J7_sKY_6R6kmcWjidaE_-5">
+        <mxCell id="J7_sKY_6R6kmcWjidaE_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J7_sKY_6R6kmcWjidaE_-3" target="J7_sKY_6R6kmcWjidaE_-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J7_sKY_6R6kmcWjidaE_-3" value="输出2个黑灰白预测结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J7_sKY_6R6kmcWjidaE_-3" value="输出2个黑灰白预测结果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="J7_sKY_6R6kmcWjidaE_-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J7_sKY_6R6kmcWjidaE_-5" target="v_nW382A8O7cPtC-BspA-9">
+        <mxCell id="J7_sKY_6R6kmcWjidaE_-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J7_sKY_6R6kmcWjidaE_-5" target="v_nW382A8O7cPtC-BspA-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J7_sKY_6R6kmcWjidaE_-5" value="输出灰黑白预测结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J7_sKY_6R6kmcWjidaE_-5" value="输出灰黑白预测结果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="430" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="J7_sKY_6R6kmcWjidaE_-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.455;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="v_nW382A8O7cPtC-BspA-9" target="v_nW382A8O7cPtC-BspA-29">
+        <mxCell id="J7_sKY_6R6kmcWjidaE_-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.455;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="v_nW382A8O7cPtC-BspA-9" target="v_nW382A8O7cPtC-BspA-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="430" as="sourcePoint" />
             <mxPoint x="440" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="I4Xe06WqrUB3fofFhZH6-1" value="对基模型预测结果&lt;br&gt;进行纠正" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="390" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
