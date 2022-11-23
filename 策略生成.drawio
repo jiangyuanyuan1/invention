@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T12:47:57.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" version="20.6.0" etag="Y4_Yt-f_8hp-C5LnW0nG" type="github"><diagram id="2SbtEiJP5an-6kx0kF5r">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-23T12:57:45.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" version="20.6.0" etag="IDe13cD1zD-QjD4ZFouz" type="github">
+  <diagram id="y7-Thhto7HRovP2OVoXg" name="第 1 页">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcPVjVN_6GqL_AtUoOTL-2" target="IcPVjVN_6GqL_AtUoOTL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-2" value="标签表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="30" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcPVjVN_6GqL_AtUoOTL-4" target="IcPVjVN_6GqL_AtUoOTL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-4" value="生成策略表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="120" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-10" value="判断数据准确性&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="359" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcPVjVN_6GqL_AtUoOTL-11" target="IcPVjVN_6GqL_AtUoOTL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-11" value="生成子策略1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcPVjVN_6GqL_AtUoOTL-18" target="IcPVjVN_6GqL_AtUoOTL-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcPVjVN_6GqL_AtUoOTL-18" target="IcPVjVN_6GqL_AtUoOTL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcPVjVN_6GqL_AtUoOTL-18" target="IcPVjVN_6GqL_AtUoOTL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcPVjVN_6GqL_AtUoOTL-18" target="IcPVjVN_6GqL_AtUoOTL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcPVjVN_6GqL_AtUoOTL-18" target="IcPVjVN_6GqL_AtUoOTL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcPVjVN_6GqL_AtUoOTL-18" target="IcPVjVN_6GqL_AtUoOTL-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355" y="360" />
+              <mxPoint x="495" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-18" value="生成子策略2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="280" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-20" value="可串行生成多个子策略" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="245" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-22" value="生成策略1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="400" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-24" value="生成策略2" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="340" y="400" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-33" value="生成策略3" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-35" value="可并行生成多个策略" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="355" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
