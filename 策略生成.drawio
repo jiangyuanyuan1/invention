@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T12:57:45.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" version="20.6.0" etag="IDe13cD1zD-QjD4ZFouz" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T13:19:59.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" version="20.6.0" etag="ZhAGqmZU4PlGDciYVgUU" type="github">
   <diagram id="y7-Thhto7HRovP2OVoXg" name="第 1 页">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,23 +48,97 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IcPVjVN_6GqL_AtUoOTL-18" value="生成子策略2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-18" value="更新策略表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="280" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IcPVjVN_6GqL_AtUoOTL-20" value="可串行生成多个子策略" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="245" width="140" height="30" as="geometry" />
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-20" value="可串行选择生成0个或多个子策略" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="240" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IcPVjVN_6GqL_AtUoOTL-22" target="IcPVjVN_6GqL_AtUoOTL-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="505" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IcPVjVN_6GqL_AtUoOTL-22" value="生成策略1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="400" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcPVjVN_6GqL_AtUoOTL-24" target="IcPVjVN_6GqL_AtUoOTL-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IcPVjVN_6GqL_AtUoOTL-24" value="生成策略2" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;" vertex="1" parent="1">
           <mxGeometry x="340" y="400" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IcPVjVN_6GqL_AtUoOTL-33" target="IcPVjVN_6GqL_AtUoOTL-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IcPVjVN_6GqL_AtUoOTL-33" value="生成策略3" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="450" y="400" width="90" height="50" as="geometry" />
+          <mxGeometry x="450" y="400" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IcPVjVN_6GqL_AtUoOTL-35" value="可并行生成多个策略" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="505" y="355" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-36" value="生成子策略以及&lt;br&gt;策略模块：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="592" width="140" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcPVjVN_6GqL_AtUoOTL-37" target="IcPVjVN_6GqL_AtUoOTL-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-37" value="策略表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="592" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcPVjVN_6GqL_AtUoOTL-38" target="IcPVjVN_6GqL_AtUoOTL-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-38" value="生成目标客户表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="682" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-40" value="标签、子策略组合筛选" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="219" y="652" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcPVjVN_6GqL_AtUoOTL-41" target="IcPVjVN_6GqL_AtUoOTL-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-41" value="生成子标签1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="772" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-43" value="方法1：标签、子策略组合筛选&lt;br&gt;方法2：自定义函数（例如靠档函数）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="732" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-44" value="可以串行生成0个或多个子标签" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="862" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcPVjVN_6GqL_AtUoOTL-45" target="IcPVjVN_6GqL_AtUoOTL-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-45" value="生成子标签2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="862" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-47" value="方法1：标签、子策略组合筛选&lt;br&gt;方法2：自定义函数（例如靠档函数）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="822" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcPVjVN_6GqL_AtUoOTL-48" target="IcPVjVN_6GqL_AtUoOTL-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-48" value="生成策略或子策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="962" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-50" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;方法1：标签、子策略、子标签组合筛选&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;方法2：自定义函数（例如靠档函数）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="922" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-51" value="策略内容 由标签、子策略、&lt;br&gt;子标签、字符串自由组合而成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="967" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-52" value="获取产品资料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1032" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-54" value="更新策略表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="480" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
