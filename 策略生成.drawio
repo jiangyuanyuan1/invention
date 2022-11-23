@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T13:23:23.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" version="20.6.0" etag="0VayTdCC-hsJ_3vUavzR" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T13:25:53.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" version="20.6.0" etag="SxLo45f6SDbQjpsVc4EL" type="github">
   <diagram id="y7-Thhto7HRovP2OVoXg" name="第 1 页">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,8 +119,8 @@
         <mxCell id="IcPVjVN_6GqL_AtUoOTL-45" value="生成子标签2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="862" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IcPVjVN_6GqL_AtUoOTL-47" value="方法1：标签、子策略组合筛选&lt;br&gt;方法2：自定义函数（例如靠档函数）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="215" y="822" width="220" height="40" as="geometry" />
+        <mxCell id="IcPVjVN_6GqL_AtUoOTL-47" value="方法1：标签、子策略、子标签组合筛选&lt;br&gt;方法2：自定义函数（例如靠档函数）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="822" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IcPVjVN_6GqL_AtUoOTL-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcPVjVN_6GqL_AtUoOTL-48" target="IcPVjVN_6GqL_AtUoOTL-52">
           <mxGeometry relative="1" as="geometry" />
