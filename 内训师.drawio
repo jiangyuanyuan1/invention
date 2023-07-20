@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T07:55:02.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="FcUII0jUBMw0ytO9zPQe" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T07:57:04.107Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="sWKBwOyWhox_Gl-lhnhW" version="21.6.3" type="github">
   <diagram name="第 1 页" id="XTP6Vx5M6_7WIYYF2po9">
     <mxGraphModel dx="1134" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,12 +15,6 @@
         </mxCell>
         <mxCell id="Tbc1eCZwPBOfS_HV4jd0-7" value="机构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="120" y="48.75" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Tbc1eCZwPBOfS_HV4jd0-8" value="数智运营组" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="335" y="57.5" width="100" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="Tbc1eCZwPBOfS_HV4jd0-9" value="数智内训师" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="550" y="57.5" width="100" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="Tbc1eCZwPBOfS_HV4jd0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="Tbc1eCZwPBOfS_HV4jd0-10" target="Tbc1eCZwPBOfS_HV4jd0-12">
           <mxGeometry relative="1" as="geometry" />
@@ -114,6 +108,9 @@
         <mxCell id="Tbc1eCZwPBOfS_HV4jd0-36" value="出发授课" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="560" y="950" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Tbc1eCZwPBOfS_HV4jd0-47" value="" style="ellipse;shape=cloud;html=1;textOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="269" y="40.25" width="446" height="77" as="geometry" />
+        </mxCell>
         <mxCell id="Tbc1eCZwPBOfS_HV4jd0-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="Tbc1eCZwPBOfS_HV4jd0-38" target="Tbc1eCZwPBOfS_HV4jd0-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -142,6 +139,12 @@
         </mxCell>
         <mxCell id="Tbc1eCZwPBOfS_HV4jd0-45" value="活动总结宣发" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="335" y="1230" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbc1eCZwPBOfS_HV4jd0-8" value="数智运营组" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="335" y="57.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Tbc1eCZwPBOfS_HV4jd0-9" value="数智内训师" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="550" y="57.5" width="100" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
